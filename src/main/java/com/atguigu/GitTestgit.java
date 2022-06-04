@@ -6,6 +6,7 @@ package com.atguigu;
  */
 public class GitTestgit {
     public static void main(String[] args) {
-        System.out.println("helloGit");
+        System.out.println("helloGit1");
+        System.out.println("helloGit2");
     }
 }
